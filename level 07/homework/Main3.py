@@ -1,0 +1,5 @@
+print(15>10)
+print(25>5)
+print(10<12)
+print(32<99)
+print(55>21)

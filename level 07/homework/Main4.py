@@ -1,0 +1,7 @@
+print(17>2 and 99<2)
+print(13>2 or 22<2)
+print(15>2 or 22>221)
+print(99>2 and 88<22)
+print(66<32 and 44>11)
+print(15>5 and False)
+print(True or False)
