@@ -1,0 +1,1 @@
+print("goa aris idealuri saswavlebeli programirebistvis sadac chven martivad shegvidzlia rom seviswavlot programirebis enebi")
