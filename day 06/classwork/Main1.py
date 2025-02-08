@@ -1,0 +1,10 @@
+saxeli=input(str("shemoitanet Tqveni Saxeli: "))
+asaki=int(input("Shemoitanet Tqveni Asaki: "))
+simagle=float(input("Shemoitanet Tqveni Simagle: "))
+Sayvareli_Feri=input("Shemoitanet Tqveni Sayvareli Feri: ")
+
+print("Momxmareblis Shemotanili Informacia: ")
+print("Saxeli: " + saxeli)
+print("asaki: ", +asaki)
+print("Simagle: ", +simagle)
+print("Sayvareli Feri: "+Sayvareli_Feri)
