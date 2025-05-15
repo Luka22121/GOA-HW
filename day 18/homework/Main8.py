@@ -1,0 +1,1 @@
+#removesa da pop msgavseba aris rom orive titqmis erti da igive aris pop swirdeba ricxvi mivutitot rom amoshalos chven rasac vetyvit da removes ubralod sia.remove("delete")ase davuwert da raciqneba maseti amoshlis ubralod 
